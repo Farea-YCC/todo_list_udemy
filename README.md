@@ -1,6 +1,5 @@
-
-
 # todo_list_udemy
 
-# This is Course from udemy abdullah mansoor flutter
-<href src"https://github.com/Farea-YCC/todo_list_udemy/blob/main/Screen/Screenshot.jpg">
+## This is a course from Udemy by Abdullah Mansoor
+
+![Screenshot](https://github.com/Farea-YCC/todo_list_udemy/blob/main/Screen/Screenshot.jpg)
