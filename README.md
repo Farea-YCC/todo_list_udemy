@@ -4,4 +4,4 @@
 
 
 
-<img src ="https://github.com/Farea-YCC/todo_list_udemy/raw/main/Screen/Screenshot.jpg"  width="600" height="400">
+<img src ="https://github.com/Farea-YCC/todo_list_udemy/raw/main/Screen/Screenshot.jpg"  width="600" height="600">
